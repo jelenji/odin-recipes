@@ -1,0 +1,29 @@
+* {
+    background-color: #FEFBEA;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h1 {
+    font-size: 75px;
+    color: red;
+}
+
+h2 {
+    font-size: 35px;
+    color: red;
+}
+
+ol,
+ul {
+    font-size: 30px;
+}
+
+.recipe-list,
+.ingrediants-list {
+    font-size: 25px;
+}
+
+p {
+    font-size: 27px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
